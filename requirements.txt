@@ -18,5 +18,5 @@ requests==2.33.0
 rich==13.3.2
 tiktoken==0.3.2
 tqdm==4.66.3
-urllib3==2.6.3
+urllib3==2.7.0
 yarl==1.8.2
